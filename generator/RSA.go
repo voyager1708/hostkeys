@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/fasmide/hostkeys/internal/marshal"
+	"github.com/voyager1708/hostkeys/internal/marshal"
 	"golang.org/x/crypto/ssh"
 )
 

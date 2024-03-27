@@ -1,4 +1,4 @@
-module github.com/fasmide/hostkeys
+module github.com/voyager1708/hostkeys
 
 go 1.16
 

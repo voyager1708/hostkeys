@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/fasmide/hostkeys/generator"
+	"github.com/voyager1708/hostkeys/generator"
 	"golang.org/x/crypto/ssh"
 )
 
